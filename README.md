@@ -1,2 +1,1 @@
-# MusicPlayer
-simple music player website created using HTML, CSS, JavaScript
+"# codealpha_task3_music_player" 
